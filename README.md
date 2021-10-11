@@ -1,2 +1,2 @@
-# NumA
-1st lab
+# Number Analysis
+1st lab - non linear equations
